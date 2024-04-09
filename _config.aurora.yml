@@ -17,7 +17,7 @@ site:
   language: zh-CN
   multi_language: false
   logo:
-  avatar:
+  avatar: /images/avatar.jpg
   beian:
     number: ''
     link: ''
@@ -63,7 +63,7 @@ menu:
 #! ---------------------------------------------------------------
 theme:
   dark_mode: true
-  profile_shape: diamond # support `circle`, `diamond`, `rounded`
+  profile_shape: circle # support `circle`, `diamond`, `rounded`
   feature: true
   gradient:
     color_1: '#24c6dc'
