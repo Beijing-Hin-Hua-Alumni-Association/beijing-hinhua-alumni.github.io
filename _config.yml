@@ -103,3 +103,4 @@ theme: aurora
 deploy:
   type: git
   repo: https://github.com/Beijing-Hin-Hua-Alumni-Association/beijing-hinhua-alumni.github.io
+  branch: gh-pages
