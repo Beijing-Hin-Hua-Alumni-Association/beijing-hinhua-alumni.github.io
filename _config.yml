@@ -102,5 +102,5 @@ theme: aurora
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Beijing-Hin-Hua-Alumni-Association/beijing-hinhua-alumni.github.io
+  repo: https://github.com/beijing-hinhua-alumni/home
   branch: gh-pages

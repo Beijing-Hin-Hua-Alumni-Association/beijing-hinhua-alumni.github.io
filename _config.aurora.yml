@@ -14,7 +14,7 @@ site:
   nick: Hin Hua High School
   description:
   link: '/'
-  language: cn
+  language: zh-CN
   multi_language: false
   logo:
   avatar:
@@ -97,7 +97,7 @@ socials:
 #! @docs https://aurora.tridiamond.tech/guide/theme.html
 #! ---------------------------------------------------------------
 site_meta:
-  cdn: cn
+  cdn: en
   favicon:
   description: ''
   keywords: ''
